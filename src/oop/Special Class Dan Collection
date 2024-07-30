@@ -1,0 +1,6 @@
+- Special Class dan Collection
+  -> Special class adalah class yang memiliki karakteristik atau fitur yang tidak tersedia di class biasa (reguler)
+  -> Data class merupakan sebuah class sederhana yang bisa berperan sebagai data container
+  -> Nested class digunakan untuk membuat class di dalam class tanpa akses ke kelas indux
+  -> Inner class digunakan untuk membuat class di dalam class dengan akses ke kelas indux
+  -> List, dengan list kita dapat menyimpan banyak data menjadi satu object
